@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+  <summary> Some Statistics </summary>
+  
+![Metrics](https://metrics.lecoq.io/siemienik?template=classic&followup=1&config.animated=true)
+
+</details>
+
 <!--
 **Siemienik/Siemienik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

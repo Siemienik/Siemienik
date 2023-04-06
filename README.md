@@ -2,11 +2,11 @@
 
 Hi, I'm Siemienik, a passionate software developer specialized in creating reusable tools, modules, and open-source components. I am currently open for job opportunities and available for B2B projects.
 
-
 ## :star2: Featured Projects
+
 - [ExcelJS](https://github.com/exceljs/exceljs)
 - [XToolset](https://github.com/siemienik/XToolset)
-- [Siemienik.com](https://siemienik.com)
+- [Siemienik.com](https://github.com/Siemienik/siemienik.github.io)
 - [Handsontable](https://github.com/handsontable/handsontable)
 
 ## :globe_with_meridians: Connect with me

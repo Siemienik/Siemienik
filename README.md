@@ -17,7 +17,7 @@ Hi, I'm Siemienik, a passionate software developer specialized in creating reusa
 
 ## :rocket: Open Source Support Group
 
-I'm planning to create a group of people who will support the development of selected open-source projects. We'll communicate on [Discord](https://discord.gg/zUQKcUKS) and you can support me on [GitHub Sponsors](https://github.com/sponsors/siemienik).
+I'm planning to create a group of people who will support the development of selected open-source projects. We'll communicate on [Discord](https://discord.gg/BqTQGHDKw8) and you can support me on [GitHub Sponsors](https://github.com/sponsors/siemienik).
 Feel free to join our community and contribute to the world of open-source software!
 
 ## :briefcase: Job Opportunities and B2B Projects
